@@ -1,0 +1,12 @@
+# NAME: ChatGPT
+# AUTHOR: wutong
+# REPO: https://github.com/zgwutong/QuantumultX
+# UPDATED: 2023-04-15 14:50:30
+# HOST-KEYWORD: 2
+# HOST-SUFFIX: 3
+# TOTAL: 5
+host-suffix, openai.com, chatGPT
+host-suffix, chat.openai.com, chatGPT
+host-suffix, sentry.io, chatGPT
+HOST-KEYWORD,openai,ChatGPT
+HOST-KEYWORD,chatGPT,ChatGPT
