@@ -5,8 +5,8 @@
 # HOST-KEYWORD: 2
 # HOST-SUFFIX: 3
 # TOTAL: 5
-host-suffix, openai.com, chatGPT
-host-suffix, chat.openai.com, chatGPT
-host-suffix, sentry.io, chatGPT
-HOST-KEYWORD,openai,ChatGPT
-HOST-KEYWORD,chatGPT,ChatGPT
+host-suffix, openai.com, ChatGPT
+host-suffix, chat.openai.com, ChatGPT
+host-suffix, sentry.io, ChatGPT
+HOST-KEYWORD, openai, ChatGPT
+HOST-KEYWORD, chatGPT, ChatGPT
